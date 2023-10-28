@@ -1,0 +1,34 @@
+<html> 
+
+<head>
+  
+     <title>Criando um Site enquanto aprendo Html</title>
+</head>
+
+<BODY>
+  
+ <center> <h1> <u> Aprendendo Html</u> </h1> </center>
+  
+ <br />
+ 
+  
+<p> Mané Ola mundo bagulho e usar isso
+ pra treinar e destilar barbaridades
+ <h2> TAGS</h2>
+  
+<p> <b>Title</b>- Titulo que aparece na <b>aba</b></p>
+  
+<P> <b>P</b>- Adiciona <b>paragrafo</b> </p>
+  
+<p> <b>H1</b>- Adiciona <b>titulo</b> </p>
+  
+<p> <b>H2</b>- Sub-titulo </p>
+  
+<p> <b>Center</b>- <b>Centraliza</b> o texto na pagina
+</p>
+  <p><b>B</b>-Deixa o texto em <b>Negrito</b></p>
+  <p><b>I</b>-Deixa o texto em <b>Italico</b></p>
+  <p><b>U</b>-Sublinha a frase</p>
+
+  </BODY>
+  </html>
